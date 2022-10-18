@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ikhokha</string>
+    <string name="login_name">Username</string>
+    <string name="login_pass">Password</string>
+    <string name="login_action">Login</string>
+    <string name="login_retry">Retry</string>
+    <string name="login_success">Success</string>
+    <string name="login_error">Failed to Login</string>
+</resources>

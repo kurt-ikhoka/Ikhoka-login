@@ -1,0 +1,2 @@
+rootProject.name = "Ikhoka-Login"
+include ':app'
